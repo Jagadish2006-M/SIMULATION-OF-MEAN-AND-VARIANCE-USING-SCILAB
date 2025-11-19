@@ -49,7 +49,7 @@ disp("ii) Mean of Y =",EY)
 
 function X=g(x)
     z=3*(1-x)^2;
-    X=x^2*z;
+    X=x*z;
 endfunction
 
 a=0;
@@ -83,9 +83,11 @@ plot2d3('gnn',r);
 
 
 ## CALCULATION
-![Simulation of mean and variance page 1](https://github.com/user-attachments/assets/adb3d867-3d9c-4cf9-9557-0fc38b2e1726)
+![mean variance 1](https://github.com/user-attachments/assets/2a11029b-7621-4f5b-905e-1761ee33399f)
 
-![Simulation of mean and variance page 2](https://github.com/user-attachments/assets/d0281544-754c-440b-ba6d-a75ceaa94a85)
+
+![Mean variance 2](https://github.com/user-attachments/assets/4f2f5cdb-1441-4a14-a7a9-572e8ef8c3f7)
+
 
 
 
